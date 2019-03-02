@@ -39,6 +39,16 @@
 
 
 }
+#paged {
+    background-color: #8b227f;
+    background-color: #8b227f;
+    background-image: url("tenor1.gif"),
+        url("wrzesien.gif");
+    background-repeat: repeat,
+        repeat;
+    background-color: #cccccc;
+    color: #000000;
+}
 
 h1 {
 
