@@ -102,3 +102,6 @@ section {
     background-image: url("tenor%20(1).gif"),
         url("wrzesien.gif");
 }
+audio { 
+   display:none;
+}
