@@ -39,6 +39,7 @@
 
 
 }
+
 #paged {
     background-color: #8b227f;
     background-color: #8b227f;
@@ -79,6 +80,19 @@ a {
     color: #fdfdfd;
     padding: 0 20px 0 20px;
     text-decoration: none;
+}
+
+img {
+    float: left;
+    padding: 15px;
+}
+
+.img {
+    position: relative;
+    left: 15px;
+    float: left;
+    margin: 0px;
+    padding: 0 px;
 }
 }
 
