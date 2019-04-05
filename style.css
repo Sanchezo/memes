@@ -64,15 +64,16 @@
 
 h1 {
 
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 200px;
+    padding-bottom: 200px;
     text-align: center;
 }
 
 nav {
+    height: 50px;
     width: 100%;
     position: fixed;
-    line-height: :120px;
+    line-height: :200px;
     background-color: blue;
 
 }
@@ -88,8 +89,9 @@ li {
 a {
     display: block;
     color: #fdfdfd;
-    padding: 0 20px 0 20px;
+    padding: 0 100px 0 100px;
     text-decoration: none;
+
 }
 
 img {
@@ -116,6 +118,8 @@ article {
 
 a:hover {
     background: #b6dede;
+    background-image: url(rick2.jpg);
+    height: 100px;
 }
 
 p {
