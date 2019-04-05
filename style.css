@@ -98,8 +98,7 @@ img {
 }
 
 .img {
-    position: relative;
-    left: 15px;
+
     float: left;
     margin: 0px;
     padding: 0 px;
@@ -138,6 +137,8 @@ section {
     overflow: : hidden;
     width 20vw;
     height: 30vh;
+    position: relative;
+    left: 15px;
 }
 
 #film {
